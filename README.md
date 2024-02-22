@@ -8,7 +8,7 @@
 - <b> Music Genre  Classification (Natural Language Processing, Employing BERT)</b>
   - [What_Genre_Model](https://github.com/chibuzoramadi/deeplearning)
 - <b>Park Rating Reviews (deep learning) </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Predicting the ratings from text reviews: Using Neural Networks](https://github.com/chibuzoramadi/Predicting_rating_reviews)
   
 <h2> 🤳 Connect with me:</h2>
 

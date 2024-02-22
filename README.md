@@ -4,9 +4,9 @@
 <h2>👨‍💻 AI Projects:</h2>
 
 - <b> Heart Disease Prediction (Machine Learning)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Heart_Disease_Prediction](https://github.com/chibuzoramadi/Heart-Failure-Prediction)
 - <b> Music Genre  Classification (Natural Language Processing, Employing BERT)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [What_Genre_Model](https://github.com/chibuzoramadi/deeplearning)
 - <b>Park Rating Reviews (deep learning) </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   

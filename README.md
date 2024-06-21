@@ -9,6 +9,8 @@
   - [What_Genre_Model](https://github.com/chibuzoramadi/deeplearning)
 - <b>Park Rating Reviews (deep learning) </b>
   - [Predicting the ratings from text reviews: Using Neural Networks](https://github.com/chibuzoramadi/Predicting_rating_reviews)
+- <b>Web and Social Network Search and Analysis (Social Analysis) </b>
+  - [Web and Social Network Search and Analysis](https://github.com/chibuzoramadi/Web-and-Social-Network-Search-and-Analysis)
   
 <h2> 🤳 Connect with me:</h2>
 

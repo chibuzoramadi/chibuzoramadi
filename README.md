@@ -11,7 +11,10 @@
   - [Predicting the ratings from text reviews: Using Neural Networks](https://github.com/chibuzoramadi/Predicting_rating_reviews)
 - <b>Web and Social Network Search and Analysis (Social Analysis) </b>
   - [Web and Social Network Search and Analysis](https://github.com/chibuzoramadi/Web-and-Social-Network-Search-and-Analysis)
-  
+- <b>Machiine Learning Journey (Project Reports) </b>
+  - [Machine Learning In_depth](https://github.com/chibuzoramadi/Machine-learning-Journey)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 

@@ -1,5 +1,5 @@
-<h1>Hi, I'm Chibuzor! </h1>
-- <b>  I am a student in Artificial Intelligence, here are some of the interesting projects I have been working on 😄</b>
+<h1>Hi, I'm Chibuzor </h1>
+- <b>   student in Artificial Intelligence</b>
 
 <h2>👨‍💻 AI Projects:</h2>
 
